@@ -1,0 +1,23 @@
+* {
+  font-family:'Times New Roman', Times, serif
+}
+
+body {
+  margin: 0;
+}
+
+section, nav{
+  padding: 15px;
+}
+
+nav {
+  background-color: coral;
+}
+nav a {
+  padding-right: 10px;
+  color: white;
+}
+
+.gallery img {
+  height: 100px;
+}
